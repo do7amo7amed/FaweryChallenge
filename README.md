@@ -26,6 +26,10 @@ Design a radar system that has the following:
 
 - The system should be designed to be extensible, allowing flexibility for adding rules without modifying the Radar.
 
+## UML
+<img width="788" height="360" alt="image" src="https://github.com/user-attachments/assets/3f347272-005b-43ef-9055-7732dfc7dbf8" />
+
+
 ## Example Code Running
 <img width="821" height="467" alt="image" src="https://github.com/user-attachments/assets/f5c7ff23-ed93-40de-b8f8-6eff918a306e" />
 
