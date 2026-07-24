@@ -25,3 +25,9 @@ Design a radar system that has the following:
 - Get all violated rules with count for each.
 
 - The system should be designed to be extensible, allowing flexibility for adding rules without modifying the Radar.
+
+## Example Code Running
+<img width="821" height="467" alt="image" src="https://github.com/user-attachments/assets/f5c7ff23-ed93-40de-b8f8-6eff918a306e" />
+
+
+
